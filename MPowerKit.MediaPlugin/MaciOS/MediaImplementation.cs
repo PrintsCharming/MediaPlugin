@@ -1,7 +1,9 @@
 using Foundation;
 
 using ImageIO;
-
+using Microsoft.Maui.ApplicationModel;
+using Microsoft.Maui.Devices;
+using Microsoft.Maui.Storage;
 using Photos;
 
 using PhotosUI;
